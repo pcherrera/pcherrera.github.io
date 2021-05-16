@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pablo Herrera / Site Title"
+title                    : "Pablo Herrera"
 title_separator          : "-"
 name                     : &name "Pablo Herrera"
 description              : &description "Personal webpage"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pablo Herrera"
   avatar           : "yo6.png"
-  bio              : "PhD Student at Pontifica Universidad Católica de Chile"
+  bio              : "Ph.D Student at Pontifica Universidad Católica de Chile"
   location         : "Santiago, Chile"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
