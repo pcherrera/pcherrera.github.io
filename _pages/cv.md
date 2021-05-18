@@ -38,9 +38,9 @@ Skills
 Certificated Courses
 ======
 * Coursera 
-  * Python for Data Science, AI & Development
-  * Data Analysis with Python
-  * Data Visualization with Python
+  * IBM - Python for Data Science, AI & Development
+  * IBM - Data Analysis with Python
+  * IBM - Data Visualization with Python
   * University of Michigan - The Finite Element Method for Problems in Physics
 
 
