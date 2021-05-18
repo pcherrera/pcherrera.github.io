@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Pontificia Universidad Católica De Chile, 2017
+* Ph.D © in Mathematics, Pontificia Universidad Católica De Chile University, 2019
+* Ph.D in Mathematics, Pontificia Universidad Católica De Chile University, 2022 (expected)
 
-Work experience
+Scholarships 
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* VRI Ayudante Becario, 2018
+* VRI Ayudante Becario, 2019
+* VRI Instructor Becario, 2020
+* VRI Instructor Becario, 2021
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python 3.0
+  * FEniCS
+  * Numpy
+  * Pandas 
+  * Scikit-learn 
+  * Keras 
+* C++
+  * Deal II
+* Matlab 
+* Basic HTML 
 
-Publications
+Certificated Courses
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Coursera 
+  * Python for Data Science, AI & Development
+  * Data Analysis with Python
+  * Data Visualization with Python
+  * University of Michigan - The Finite Element Method for Problems in Physics
+
+
