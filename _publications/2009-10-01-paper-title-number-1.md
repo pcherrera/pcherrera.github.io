@@ -5,8 +5,7 @@ collection: publications
 permalink: /publications/
 date: 2022-05-24
 venue: 'Computational Methods in Applied Mathematics'
-paperurl: #'https://doi.org/10.1515/cmam-2021-0246'
-citation: #'Pablo Herrera, You. (2021). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://doi.org/10.1515/cmam-2021-0246'
+citation: 'T.Führer, P. Herrera, N.Heuer. (2022). &quot;DPG methods for a Fourth-order div problem  vol 22 issue 3.&quot; <i>Computational Methods in Applied Mathematics 1</i>. 1(1).'
 ---
 
-T.Führer, P.Herrera and N.Heuer, <i>DPG methods for a Fourth-order div problem</i>, vol 22 issue 3, 2022.
