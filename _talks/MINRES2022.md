@@ -1,5 +1,5 @@
 ---
-title: "A DPG method for the fourth-order DIV equation"
+title: "A DPG method for the quad-div problem"
 collection: talks
 type: "Conference"
 permalink: "http://minres.mat.uc.cl/abstracts/19_Herrera.pdf"
