@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Mathematics, Pontificia Universidad Católica De Chile, 2017
 * Ph.D © in Mathematics, Pontificia Universidad Católica De Chile University, 2019
-* Ph.D in Mathematics, Pontificia Universidad Católica De Chile University, 2022 (expected)
+* Ph.D in Mathematics, Pontificia Universidad Católica De Chile University, 2024 (April expected)
 
 Scholarships 
 ======
@@ -29,9 +29,9 @@ Skills
   * Numpy
   * Pandas 
   * Scikit-learn 
-  * Keras 
 * C++
   * Deal II
+  * OpenGL 
 * Matlab 
 * Basic HTML 
 
