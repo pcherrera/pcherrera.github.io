@@ -24,15 +24,17 @@ Scholarships
 
 Skills
 ======
-* Python 3.0
-  * FEniCS
+* Python 
+  * NGSolve
   * Numpy
   * Pandas 
   * Scikit-learn 
+  * Matplotlib
 * C++
   * Deal II
   * OpenGL 
-* Matlab 
+* Matlab
+  * iFEM
 * Basic HTML 
 
 Certificated Courses
