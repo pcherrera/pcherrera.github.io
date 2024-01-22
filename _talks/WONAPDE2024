@@ -1,9 +1,9 @@
 ---
-title: "A DPG method for the fourth-order DIV equation"
+title: "A DPG method for the quad-curl problem"
 collection: talks
 type: "Conference"
 permalink: "https://www.ci2ma.udec.cl/wonapde2024/abstract/Fuhrer2.pdf"
-venue: "MINRES 2022"
-date: 2022-06-08
+venue: "WONAPDE 2024"
+date: 2024-17-01
 location: "Santiago, Chile"
 ---
