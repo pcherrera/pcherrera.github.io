@@ -12,9 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics, Pontificia Universidad Católica De Chile, 2017
-* Ph.D © in Mathematics, Pontificia Universidad Católica De Chile University, 2019
-* Ph.D in Mathematics, Pontificia Universidad Católica De Chile University, 2024 (April expected)
-
+* Ph.D in Mathematics, Pontificia Universidad Católica De Chile University, 2024.
 Scholarships 
 ======
 * VRI Ayudante Becario, 2018
@@ -37,11 +35,6 @@ Skills
   * iFEM
 * Basic HTML 
 
-Certificated Courses
-======
-* Coursera 
-  * IBM - Python for Data Science, AI & Development
-  * IBM - Data Analysis with Python
   * IBM - Data Visualization with Python
   * University of Michigan - The Finite Element Method for Problems in Physics
 
