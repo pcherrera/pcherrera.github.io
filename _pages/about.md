@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am Pablo Herrera Ph.D student at Pontificia Universidad Católica 
-under the supervision of [Norbert Heuer](http://www.mat.uc.cl/~nheuer/) and 
-[Thomas Führer](http://www.mat.uc.cl/~tofuhrer/). My research focus is the numerical
-resolution of Higher order Partial Differential Equations and Discontinous Petrov Galerkin methods.
+Welcome to my academic website. 
+
+My name is Pablo Herrera Ph.D in Mathematics at Pontificia Universidad Católica de Chile. 
+and I am currently a Postdoctoral Researcher at Pontificia Universidad Católica de Valparaiso. My work focuses on Discontinuous Petrov-Galerkin (DPG) Methods with optimal test functions, Higher-Order PDEs, and neural control.  
+
+
+
