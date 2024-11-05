@@ -1,3 +1,4 @@
+---
 title: "MAT1620 Calculus II"
 collection: Lecture
 type: "Undergraduate Course"
